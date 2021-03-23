@@ -1,7 +1,10 @@
 https://mybinder.org/v2/gh/iqbalamo93/Finace_Python/master
 
+
 Contents:
-  INTRO TO RISK MANAGEMENT:
+
+
+    INTRO TO RISK MANAGEMENT:
   
     1.univariate investment risk and returns
       A.TYPES OF RETURNS
